@@ -12,6 +12,7 @@ description: Execute and debug end-to-end tkwant numerical simulations, includin
 - Route model and boundary design questions to `tkwant-inputs-and-modeling`.
 - Route class-signature or API-only questions to `tkwant-api-and-scripting`.
 - Route tutorial selection without execution to `tkwant-examples-and-tutorials`.
+- Route checklist-style root-cause diagnosis of suspicious results to `tkwant-pitfalls`.
 
 ### Triage questions
 - Is the target workflow one-body or many-body?
