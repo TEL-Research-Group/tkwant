@@ -1,0 +1,23 @@
+name: tkwant
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - numpy
+    - scipy
+    - sympy
+    - cython
+    - mpi4py
+    - tinyarray
+    - kwant
+    - kwantspectrum
+    - versioneer
+    # testing
+    - pytest
+    # documentation
+    - sphinx
+    - jupyter-sphinx
+    - matplotlib
+
+
+
